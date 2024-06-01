@@ -1791,6 +1791,7 @@ Jasmine
 - [Teti 2005] (https://github.com/Teti2005)
 - [Khat Min Htet](https://github.com/Khantminhtet2001)
 - [David P]
+- [Deepak PM]
 - [Xavier Graham]
 - [Victoria Zamora](https://github.com/zamoraV)
 - [Rashaad10](https://github.com/Rashaad10)
